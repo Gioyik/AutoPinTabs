@@ -1,4 +1,3 @@
 AutoPinTabs
-===========
 
-Addon para Firefox que sirve para listar los sitios a darles un Pin!
+Lista los sitios que le quieres dar Pin al inicio de Firefox
